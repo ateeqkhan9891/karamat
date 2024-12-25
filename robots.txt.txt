@@ -1,3 +1,4 @@
 User-agent: *
-Disallow: /search
+Disallow: /admin/
 Sitemap: https://ateeqkhan9891.github.io/karamat/sitemap.xml
+
